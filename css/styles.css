@@ -57,11 +57,11 @@ body {
   border-radius: 2px;
 }
 
-/*.card_right {
-	border-radius: 2px;
+.card_right {
+  border-radius: 2px;
 }
 
-.card_cat {
+/*.card_cat {
 	width: 100%;
 	display: -webkit-box;
 	display: -ms-flexbox;

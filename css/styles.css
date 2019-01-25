@@ -85,11 +85,12 @@ body {
   -webkit-transition: 300ms ease-in-out;
 }
 
-/*.disc {
-	font-weight: 100;
-	line-height: 27px;
+.disc {
+  font-weight: 100;
+  line-height: 27px;
 }
-a {
+
+/*a {
 	color: darkcyan;
 	display: block;
 	text-decoration: none;

@@ -61,17 +61,17 @@ body {
   border-radius: 2px;
 }
 
-/*.card_cat {
-	width: 100%;
-	display: -webkit-box;
-	display: -ms-flexbox;
-	display: flex;
-	-webkit-box-pack: justify;
-	    -ms-flex-pack: justify;
-	        justify-content: space-between;
+.card_cat {
+  width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
 }
 
-.PG, .year, .genre, .time {
+/*.PG, .year, .genre, .time {
 	color: fff;
 	padding: 10px;
 	font-weight: bold;

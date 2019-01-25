@@ -38,11 +38,11 @@ body {
   box-shadow: 0 0 40px rgba(0, 0, 0, 0.3);
 }
 
-/*.card_left {
-	width: 90%;
+.card_left {
+  width: 90%;
 }
 
-.card_datails {
+/*.card_datails {
 	width: 90%;
 	padding: 30px;
 	margin-top: -25px;

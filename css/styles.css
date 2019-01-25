@@ -117,12 +117,13 @@ button {
   transition: 200ms ease-in-out;
 }
 
-/*button:hover {
-	-webkit-transform: scale(1.1);
-	    -ms-transform: scale(1.1);
-	        transform: scale(1.1);
+button:hover {
+  -webkit-transform: scale(1.1);
+  -ms-transform: scale(1.1);
+  transform: scale(1.1);
 }
-.play_btn {
+
+/*.play_btn {
 	height: 100%;
 	margin: -394px auto;
 	position: relative;

@@ -96,10 +96,11 @@ a {
   text-decoration: none;
 }
 
-/*.social-btn {
-	margin-left: -10px;
+.social-btn {
+  margin-left: -10px;
 }
-button {
+
+/*button {
 	color: #fff;
 	border: none;
 	padding: 20px;

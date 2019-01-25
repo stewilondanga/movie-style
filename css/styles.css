@@ -132,15 +132,15 @@ button:hover {
   box-shadow: 0 0 50px rgba(0, 0, 0, 0.2);
 }
 
-/*.fa-play-circle {
-	color: #255;
-	font-size: 160px;
-	margin-top: 110px;
-	-webkit-animation: bounce 1.0s -0.4s infinite;
-	        animation: bounce 1.0s -0.4s infinite;
+.fa-play-circle {
+  color: #255;
+  font-size: 160px;
+  margin-top: 110px;
+  -webkit-animation: bounce 1.0s -0.4s infinite;
+  animation: bounce 1.0s -0.4s infinite;
 }
 
-.fa-play-circle:hover {
+/*.fa-play-circle:hover {
 	color: aqua;
 	animation: bounce 0.4s infinite;
 }

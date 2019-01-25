@@ -78,14 +78,14 @@ body {
   border-radius: 15px;
 }
 
-/*.PG {
-	background: #92FE9D;
-	-webkit-box-shadow: 0 0 50px rgba(0,0,0,0.1);
-	        box-shadow: 0 0 50px rgba(0,0,0,0.1);
-	-webkit-transition: 300ms ease-in-out;
+.PG {
+  background: #92FE9D;
+  -webkit-box-shadow: 0 0 50px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 0 50px rgba(0, 0, 0, 0.1);
+  -webkit-transition: 300ms ease-in-out;
 }
 
-.disc {
+/*.disc {
 	font-weight: 100;
 	line-height: 27px;
 }

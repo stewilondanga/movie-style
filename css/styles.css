@@ -159,22 +159,19 @@ button:hover {
   }
 }
 
-/*@keyframes bounce {
+@keyframes bounce {
   8% {
     transform: scale(0.3);
     -webkit-transform: scale(0.8);
     opacity: 1;
   }
+
   20% {
     transform: scale(1.8);
     -webkit-transform: scale2);
     opacity: 0;
-		}
+  }
 }
-
-
-
-
 
 /*  FOLLOW*/
 /*.Follow {	  background:url("../assets/stewart.jpg")no-repeat center / contain;

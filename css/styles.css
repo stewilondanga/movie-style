@@ -52,11 +52,12 @@ body {
   font-size: 30px;
 }
 
-/*.card_right img {
-	height: 390px;
-	border-radius: 2px;
+.card_right img {
+  height: 390px;
+  border-radius: 2px;
 }
-.card_right {
+
+/*.card_right {
 	border-radius: 2px;
 }
 

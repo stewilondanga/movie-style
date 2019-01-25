@@ -140,11 +140,12 @@ button:hover {
   animation: bounce 1.0s -0.4s infinite;
 }
 
-/*.fa-play-circle:hover {
-	color: aqua;
-	animation: bounce 0.4s infinite;
+.fa-play-circle:hover {
+  color: aqua;
+  animation: bounce 0.4s infinite;
 }
-@-webkit-keyframes bounce {
+
+/*@-webkit-keyframes bounce {
   8% {
     transform: scale(0.3);
     -webkit-transform: scale(0.8);

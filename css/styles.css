@@ -71,14 +71,14 @@ body {
   justify-content: space-between;
 }
 
-/*.PG, .year, .genre, .time {
-	color: fff;
-	padding: 10px;
-	font-weight: bold;
-	border-radius: 15px;
+.PG, .year, .genre, .time {
+  color: fff;
+  padding: 10px;
+  font-weight: bold;
+  border-radius: 15px;
 }
 
-.PG {
+/*.PG {
 	background: #92FE9D;
 	-webkit-box-shadow: 0 0 50px rgba(0,0,0,0.1);
 	        box-shadow: 0 0 50px rgba(0,0,0,0.1);

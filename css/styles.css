@@ -42,12 +42,13 @@ body {
   width: 90%;
 }
 
-/*.card_datails {
-	width: 90%;
-	padding: 30px;
-	margin-top: -25px;
+.card_datails {
+  width: 90%;
+  padding: 30px;
+  margin-top: -25px;
 }
-.card_datails  h1 {
+
+/*.card_datails  h1 {
 	font-size: 30px;
 }
 .card_right img {

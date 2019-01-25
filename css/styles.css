@@ -145,20 +145,21 @@ button:hover {
   animation: bounce 0.4s infinite;
 }
 
-/*@-webkit-keyframes bounce {
+@-webkit-keyframes bounce {
   8% {
     transform: scale(0.3);
     -webkit-transform: scale(0.8);
     opacity: 1;
   }
+
   10% {
     transform: scale(1.8);
     -webkit-transform: scale2);
     opacity: 0;
-		}
+  }
 }
 
-@keyframes bounce {
+/*@keyframes bounce {
   8% {
     transform: scale(0.3);
     -webkit-transform: scale(0.8);

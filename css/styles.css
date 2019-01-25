@@ -48,10 +48,11 @@ body {
   margin-top: -25px;
 }
 
-/*.card_datails  h1 {
-	font-size: 30px;
+.card_datails h1 {
+  font-size: 30px;
 }
-.card_right img {
+
+/*.card_right img {
 	height: 390px;
 	border-radius: 2px;
 }
